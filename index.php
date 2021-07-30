@@ -14,7 +14,7 @@ include('partials/global.php');
         
         <title><?php echo $webname; ?> - Home</title>        
     </head>
-    <body>
+    <body class="sidebar-collapse">
         <div class="wrapper">
             <?php include('partials/topbar.php'); ?>
            
